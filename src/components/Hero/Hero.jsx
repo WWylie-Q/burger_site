@@ -50,7 +50,7 @@ const Hero = () => {
                       filter: "drop-shadow(4px 4px 0 rgba(255, 255, 255,1))",
                     }}
                   >
-                    Flidside
+                    Flipside
                   </span>{" "}
                   Flavors
                 </h1>
